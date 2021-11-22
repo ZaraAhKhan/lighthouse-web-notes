@@ -1,3 +1,4 @@
 # Zara's Notes
-# This is  an H! header (largest)
-###### This is an H6 header (smallest)
+## Summary
+This repository contains all of the notes taken by [Zara](https://github.com/ZaraAhKhan) for the [Lighthouse Labs](https://www.lighthouselabs.ca) Web Development Bootcamp.
+
